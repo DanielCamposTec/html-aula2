@@ -1,0 +1,54 @@
+<html>
+<head>
+    <title>Loja de surf</title>
+  
+ <img src="head1.jpg" height="70%" width="100%"/>
+ 
+<h1>PORQUE COMPRAR COM A GENTE?</h1>
+<a href="https://theurbanlist.com/">Clique aqui e acesse nossa loja!</a>
+
+</head>
+
+
+    <body style = "background-color: white;">
+
+
+    <p>Nada melhor do que pegar uma onda em um dos cenários mais paradisíacos e cobiçados do mundo, concorda? </p>
+
+    <p>O melhor de tudo é poder surfar com pranchas RIDERS, não importa o seu grau de experiência para praticar o surf nas Maldivas, pois na região você pode entrar com sua prancha no mar sendo iniciante ou experiente.
+        E aí, empolgado para curtir as águas em temperatura agradável do arquipélago? Então vem com a gente que neste artigo te contamos tudo e mais um pouco sobre o surf</p>
+
+    <img src="hadi.jpg" height="70%" width="100%"/>
+    <h2 style ="color:rgb(27, 27, 27);">PORQUE SURFAR NAS MALDIVAS?</h2>
+
+    <p>Praticar surf nas Maldivas é ideal por conta dessa ser uma nação totalmente tropical, presente no Oceano Índico.
+        Além disso, essa região conta com mais de 1.200 ilhas, sendo que 203 delas são habitadas, ou seja, opções de onde surfar não vão faltar! </p>
+
+  
+
+    <a href="https://dunes.com/"><img src="maldivas.png" height="70%" width="100%"></a>
+
+        
+    <h2 style ="color:rgb(27, 27, 27);">Conheça nossas pranchas</h2>
+
+ 
+
+
+    <a href="https://theurbanlist.com/"><img src="./footpic2.jpg" height="70%" width="100%"></a>
+    <h3>Descontos de 50% somente hoje!!!! </h3>
+  
+    <a href="https://iwsmiami.com//"><img src="acesse.png"></a>
+     
+</body>
+
+<footer> 
+    <h2 style ="color:rgb(27, 27, 27);">QUER SER NOSSO APOIADOR?</h2>
+    <h2 style ="color:rgb(27, 27, 27);">Conheça nossos parceiros e junte-se aos melhores</h2>
+
+    <img src="footpic.jpg" height="70%" width="100%"/>
+
+    <h4>Todos os direitos reservados @Riders 2022 - Distribuido por Daniel Campos.   </h4>
+
+</footer>
+
+</html>
